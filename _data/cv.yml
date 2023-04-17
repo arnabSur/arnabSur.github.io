@@ -38,7 +38,7 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/arnabSur/tchecker">al-folio</a>
+    - title: <a href="https://github.com/arnabSur/tchecker">TChecker</a>
       year: 2023-now
       description: TChecker is a model checker for real-time systems. I'm extending to model-check parametric rela time systems.
 
