@@ -13,20 +13,19 @@
   contents:
     - title: PhD in Computer Science
       institution: Chennai Mathematical Institute
-      year: 2023 -
-#      description:
-#        - Description 1.
-#        - Description 2.
-#        - title: Description 3.
-#          contents:
-#            - Sub-description 1.
-#            - Sub-description 2.
-    - title: Masters in Computer Science and Engineering
+      year: Aug 2023 - Present
+      description:
+        - Verification and Synthesis of Parameterized and Distributed Real-Time Systems
+        - <b>Advisor:</b> <a href='www.cmi.ac.in/~sri'>B. Srivathsan </a>
+    - title: Master in Computer Science
       institution: Chennai Mathematical Institute
-      year: 2020 - 2022
-#      description:
-#        - Description 1.
-#        - Description 2.
+      year: Dec 2020 - Jul 2022
+      description:
+        - <b>Thesis:</b> Integer Parameter Synthesis of Parametric Timed Automata <a href='../assets/pdf/msc-thesis.pdf'>[pdf]</a>
+        - <b>Advisor:</b> <a href='www.cmi.ac.in/~sri'>B. Srivathsan </a>
+    - title: Bachelor in Computer Science and Engineering
+      institution: Jadavpur University, Kolkata
+      year: Aug 2016 - Jul 2020
 
 - title: Experience
   type: time_table
@@ -34,13 +33,15 @@
     - title: Junior Research Engineer
       institution: Indian Statisical Institute, Kolkata
       year: Oct 2020 - Dec 2020
+      description:
+        - Forensic Analysis of WhatsApp on Android
+        - Classical Cryptanalysis
+        - Block Cipher Design
 
 - title: Open Source Projects
-  type: time_table
+  type: list
   contents:
-    - title: <a href="https://github.com/arnabSur/tchecker">TChecker</a>
-      year: 2023-now
-      description: TChecker is a model checker for real-time systems. I'm extending to model-check parametric rela time systems.
+    - <b><a href="https://github.com/arnabSur/tchecker">TChecker</a></b> is a model checker for real-time systems. I'm extending it for the parametric case.
 
 #- title: Honors and Awards
 #  type: time_table
@@ -53,7 +54,7 @@
 #      items: 
 #        - Max Planck Medal
 
-- title: Academic Interests
+#- title: Academic Interests
 #  type: nested_list
 #  contents:
 #    - title: Topic 1.
@@ -65,7 +66,7 @@
 #        - Description 1.
 #        - Description 2.
 #
-#- title: Other Interests
-#  type: list
-#  contents:
-#    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+- title: Activities
+  type: list
+  contents:
+    - <b>Timed Automata Reading Group:</b> We pick and present interesting Timed Automata research papers
